@@ -25,7 +25,7 @@
 |Marta		|(https://github.com/mcarriarte)	|
 |Axel		|(https://github.com/axelvarcia95)	|
 |Pilar		|(https://github.com/pilarvillena)	|
-|---------------|---------------------------------------|
+
 
 
 
