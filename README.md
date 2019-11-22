@@ -15,9 +15,9 @@
 
 ### Compañeros de clase
 
-|---------------|---------------------------------------|
+
 |NOMBRE		|(GITHUB)				|
-|-------------------------------------------------------|
+|---------------|---------------------------------------|
 |Thayanny   	|(https://github.com/thayanny)		|
 |Zeng		|(https://github.com/zengyong96)	|
 |Álvaro		|(https://github.com/alvarodelafuente)  |
